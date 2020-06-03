@@ -1,0 +1,23 @@
+{
+	"name": "rhett",
+	"version": "1.0.0",
+	"description": "",
+	"main": "scripts.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JasonXu314/rhett-frontend.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JasonXu314/rhett-frontend/issues"
+	},
+	"homepage": "https://github.com/JasonXu314/rhett-frontend#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
